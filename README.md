@@ -27,7 +27,7 @@ Not yet discovered.
 ### License
 *MIT License
 
-Copyright (c) [2020] **Kevin Mutugi Nyaga**
+Copyright (c) 2020 **Kevin Mutugi Nyaga**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
